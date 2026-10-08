@@ -1,0 +1,6 @@
+# Ignore build output
+/dist/
+# Node modules (optional, usually not committed)
+/node_modules/
+# Ensure .npmrc is tracked
+!.npmrc
